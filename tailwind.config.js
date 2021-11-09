@@ -5,6 +5,8 @@ module.exports = {
   theme: {
     colors: {
       // design tokens has 000 and 050, as well as 800 that is just black, let's remove those and start at 100
+      white: '#ffffff',
+      black: '#000000',
       slate: {
         100: '#f6f7fb',
         200: '#dee0e8',

@@ -5,7 +5,7 @@
     "dev": "vite",
     "build": "vite build",
     "serve": "vite preview",
-    "tailwind-config-viewer": "npx tailwind-config-viewer -o"
+    "tailwind-config-viewer": "tailwind-config-viewer -o"
   },
   "dependencies": {
     "@tailwindcss/forms": "^0.3.4",
@@ -16,6 +16,7 @@
     "@vitejs/plugin-vue": "^1.9.3",
     "autoprefixer": "^10.3.7",
     "postcss": "^8.3.9",
+    "tailwind-config-viewer": "^1.6.2",
     "tailwindcss": "^2.2.17",
     "vite": "^2.6.4"
   }
